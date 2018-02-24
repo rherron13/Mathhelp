@@ -12,8 +12,11 @@ li>a {font-size:30px; padding: 0px;background-color: orange; text-decoration: no
 ul {list-style-type:none; margin: 0; padding: 0;
 }
 a:hover{background-color:orange;}
+<<<<<<< HEAD
 
 .nav {text-align:center;}
  .nav li {
     display: inline; margin-right: 20px; 
 }
+=======
+>>>>>>> origin
