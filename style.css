@@ -2,12 +2,18 @@ h1,h2{text-align: center; color:green; font-family:cursive;
 }
 h3 {text-align: left; font-family: cursive; font-size: 25px;}
 
-img {display: block;margin-right: auto;margin-left:auto;
-}
+img {display: block;margin-right: auto;margin-left:auto; margin-top: 40px;padding: 10px;
+	}
+
 body{background-color:yellow;}
-li>a {font-size:30px; padding: 8px 17px;background-color: white; text-decoration: none;
- display:block;
+li>a {font-size:30px; padding: 0px;background-color: orange; text-decoration: none;
+	border-style:dotted;
 }
-ul {list-style-type:none; margin: 0; padding: 0; width: 200px;
+ul {list-style-type:none; margin: 0; padding: 0;
 }
 a:hover{background-color:orange;}
+
+.nav {text-align:center;}
+ .nav li {
+    display: inline; margin-right: 20px; 
+}
